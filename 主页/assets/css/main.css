@@ -28,7 +28,11 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-
+#music{
+	position: fixed;
+	right: 0.2rem;
+	top: 0.2rem;
+}
 body {
 	line-height: 1;
 }
